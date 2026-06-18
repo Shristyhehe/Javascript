@@ -1,5 +1,5 @@
 /*singelton --> when we create object thru constructor 
-syntax = Object.create
+syntax = Object.create   -> new Object()
 
 
 
